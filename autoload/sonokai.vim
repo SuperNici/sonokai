@@ -28,7 +28,7 @@ function! sonokai#get_palette(style) "{{{
   if a:style ==# 'default'
     let palette = {
           \ 'black':      ['#181819',   '237'],
-          \ 'bg0':        ['#2c2e34',   '235'],
+          \ 'bg0':        ['#181819',   '235'],
           \ 'bg1':        ['#33353f',   '236'],
           \ 'bg2':        ['#363944',   '236'],
           \ 'bg3':        ['#3b3e48',   '237'],
